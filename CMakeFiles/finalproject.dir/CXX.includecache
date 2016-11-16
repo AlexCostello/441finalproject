@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/Documents/CIS441/finalproject/finalproject.cxx
+GL/glut.h
+/home/alex/Documents/CIS441/finalproject/GL/glut.h
+GL/gl.h
+/home/alex/Documents/CIS441/finalproject/GL/gl.h
+stdlib.h
+-
+
